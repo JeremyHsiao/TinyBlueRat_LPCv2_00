@@ -88,7 +88,7 @@ void TIMER32_0_IRQHandler(void)
  * @brief	main routine for blinky example
  * @return	Function should not exit.
  */
-int main(void)
+int main_blinky(void)
 {
 	uint32_t timerFreq;
 
