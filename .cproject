@@ -78,14 +78,14 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="com.crt.advproject.config.exe.debug.1790107660.example/src/cr_startup_lpc11xx.c" name="cr_startup_lpc11xx.c" rcbsApplicability="disable" resourcePath="example/src/cr_startup_lpc11xx.c" toolsToInvoke="com.crt.advproject.gcc.exe.debug.2006864340.1571282068">
+					<fileInfo id="com.crt.advproject.config.exe.debug.1790107660.example/src/cr_startup_lpc11xx.c" name="cr_startup_lpc11xx.c" rcbsApplicability="disable" resourcePath="src/cr_startup_lpc11xx.c" toolsToInvoke="com.crt.advproject.gcc.exe.debug.2006864340.1571282068">
 						<tool id="com.crt.advproject.gcc.exe.debug.2006864340.1571282068" name="MCU C Compiler" superClass="com.crt.advproject.gcc.exe.debug.2006864340">
 							<option id="com.crt.advproject.gcc.exe.debug.option.optimization.level.338704930" name="Optimization Level" superClass="com.crt.advproject.gcc.exe.debug.option.optimization.level" value="gnu.c.optimization.level.size" valueType="enumerated"/>
 							<inputType id="com.crt.advproject.compiler.input.1662734727" superClass="com.crt.advproject.compiler.input"/>
 						</tool>
 					</fileInfo>
 					<sourceEntries>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="example"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -168,7 +168,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="example"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
